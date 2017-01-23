@@ -131,7 +131,7 @@
   
   
 <!-- Begin of Foot -->
-		<section id="Foot"><h6>foot</h6>
+		<section id="Foot"><h6></h6>
 			
 		
 			{asset name="Foot"}
@@ -159,15 +159,15 @@
 <div class="emid">
 <h3>{logo}</h3><span></span>
 </div>
-@ 2017 Slope Party, All rights reserved. <br />
-<span class="mouc">Powered by <a class="fixf" href="http://vanillaforums.org/">VanillaForums</a>, Modified with love and dedication by Einsteinly </div>
-
+© 2017 Slope Party, All rights reserved. <br />
+<span class="mouc">Powered by <a class="fixf" href="http://slope.party/">slope.party Hackers</a></div>
 
 
 <div class="footerw col-md-3"><h3 class="footitle">Contact us</h3>
 <div class="stm-contact">
 <i class="fa fa-envelope"></i>
 support@slope.party <br />
+hackers@slope.party
 
 </div>
 

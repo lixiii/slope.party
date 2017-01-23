@@ -159,8 +159,8 @@
 <div class="emid">
 <h3>{logo}</h3><span> </span>
 </div>
-@ 2017 SLOPE PARTY, All rights reserved. Developed and modified with love and dedication by Einsteinly. <br />
-<span class="mouc">Powered by <a class="fixf" href="http://vanillaforums.org/">VanillaForums</a></div>
+© 2017 SLOPE PARTY, All rights reserved. Developed and modified with love and dedication by Einsteinly. <br />
+<span class="mouc">Powered by <a class="fixf" href="http://slope.party/">slope.party Hackers</a></div>
 
 
 
@@ -168,6 +168,7 @@
 <div class="stm-contact">
 <i class="fa fa-envelope"></i>
 support@slope.party <br />
+hackers@slope.party
 
 </div>
 <div class="stm-contact">
