@@ -2,6 +2,9 @@
 
 This is the official private repository of the webpage slope.party
 
+## Agenda
+1. Create a better user interface for the URL shortening service at tiny.slope.party. This is not too difficult as the APIs are clear and easy to use. 
+
 ## Current features and applications
 
 | Feature | Access URL | Remark |
