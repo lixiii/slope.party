@@ -32,6 +32,7 @@ If you are working on Back-end, please provide documentation to each and every m
 - Password: slope.party
 
 **NOTE** files uploaded to the following folders appear as subdomains
+
 | folder | subdomain |
 | ------ | --------- |
 | beta   | beta.slope.party |
