@@ -15,10 +15,28 @@ This is the official private repository of the webpage slope.party
 
 **Please do not add any sensitive information to this repository. Use *.gitignore* if necessary.**
 
-## Documentation
+## API Documentation
 
 If you are working on Back-end, please provide documentation to each and every method you create. 
 
 | Method name | Parameters | Return values | Comments |
 | ----------- | ---------- | ------------- | -------- |
 | Example method| Example parameter | Example | Example |
+
+## FTP access to current hosting server
+
+- type of hosting: PHP
+- type of access: FTP
+- FTP server location: ftp.slope.party
+- Username: u969569019.developer
+- Password: slope.party
+
+**NOTE** files uploaded to the following folders appear as subdomains
+| folder | subdomain |
+| ------ | --------- |
+| beta   | beta.slope.party |
+| cam  | cam.slope.party |
+| file | | 
+| mail | | 
+| tiny | |
+| moodle | |
